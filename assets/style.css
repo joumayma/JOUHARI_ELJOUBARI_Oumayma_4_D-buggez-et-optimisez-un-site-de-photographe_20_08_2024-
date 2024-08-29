@@ -37,11 +37,18 @@ body {
 	text-decoration: none;
 	color: #000
 }
+.social-icon {
+	max-width: 100%;
+	height: auto;
+  }
 
 .social-link img {
 	width: 20px;
 }
-
+.carousel-img {
+	max-width: 100%;
+	height: auto;
+  }
 #about {
 	display: flex;
 	background-color: #F6D2B8;
