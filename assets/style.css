@@ -67,6 +67,10 @@ body {
 	left: 0;
 	z-index: -1;
 }
+.picture.left {
+	max-width: 100%; 
+	height: auto
+}
 
 .picture {
 	flex: 1;
