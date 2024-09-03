@@ -45,6 +45,9 @@ body {
 .social-link img {
 	width: 20px;
 }
+.custom-img {
+	height:auto
+}
 .carousel-img {
 	max-width: 100%;
 	height: auto;
